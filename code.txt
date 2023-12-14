@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="d2">
+<h1 style="font-size: xx-large; color: black"><center>MY ABOUT</center></h1>
+<img src="images/image00.jpg" alt="image00" class="center"> 
+<h2><center>I am Linsy Anna wilson currently pursuing MCA at MCAFAST college Thiruvalla.<br>An ideal student is a responsible person who understands the value everythings and every word</center></h2>
+<h3>Address</h3>
+<h4>Parappurathu(H),Kunnummel potty(p.o),Nilambur,Malapuram pin code:679331</h4>
+<h5>Education</h5>
+<h6>Bsc Mathematics<br>
+   Pursuing MCA</center></h6>
+
+<h7></h7>Skills</center></h7>
+<h8><center>
+In Html,Css,JavaScript,Python</center></h8>
+   </div> 
+</body>
+</html>
